@@ -28,6 +28,9 @@ https://cloud.githubusercontent.com/assets/14115188/11768656/b79282b8-a188-11e5-
 //Letters:
 
 "f" = https://cloud.githubusercontent.com/assets/14115188/11768659/c760a35a-a188-11e5-82da-6d2ff0e8b446.jpg
+
 "b" = https://cloud.githubusercontent.com/assets/14115188/11768658/c75c38e2-a188-11e5-8406-17a20a120252.jpg
+
 "z" = https://cloud.githubusercontent.com/assets/14115188/11768660/c7615a3e-a188-11e5-8f28-3aa6c984cbb8.jpg
+
 "n" = https://cloud.githubusercontent.com/assets/14115188/11768661/c7616790-a188-11e5-8127-58767085129a.jpg
