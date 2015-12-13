@@ -15,5 +15,6 @@ Project Timeline:
 5week - testing/debugging/fixing
 
 
-Schematic
+Schematic:
+
 https://cloud.githubusercontent.com/assets/14115188/11768572/30bfa808-a186-11e5-8140-6ac602d4b381.png
