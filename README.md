@@ -1,7 +1,7 @@
 # final_assignment
 
-Summary: Creating a light installation which will project colored spots and marks which lay out a certain word at some point on a wall by using acrylic glass and light sourses. The installation will have motors which will move acrylic glass to change the appearence of marks. Interactive part will be ability to control the speed of motors which will influence the speed of lights moving around the surface.
-Stretch goals: work on a way to let the viewer to controll the lay out of the colors and make the mechanism to switch back to a automatic regim if not being touch for some time.
+Summary: Creating a light installation which will project colored spots and marks which lay out a certain word at some point on a wall by using acrylic glass and light sourses. The installation will have motors which will move acrylic glass to change the appearence of marks. Interactive part will be an ability to use keaboard in order to make input diffrent letters.
+Stretch goals: work on a way to let the viewer to controll the lay out of the colors and make the mechanism to switch back to a automatic regim if not being touched for some time.
 
 Component Parts: Motors, acrylic glass, light sourses(table lamps?).
 
